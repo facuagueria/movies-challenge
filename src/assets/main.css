@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gray-900 text-gray-400;
+}
+
+/*.p-paginator {*/
+/*  background-color: rgb(17 24 39) !important;*/
+/*}*/
